@@ -1,0 +1,37 @@
+{
+  "slug": "ModularParkService",
+  "name": "ModularParkService",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "ModularParkService",
+  "author": "M. Josiah Sytsma",
+  "authorEmail": "sytsma.music@icloud.com",
+  "authorUrl": "mjsyts.com",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "DeathValley",
+      "name": "DeathValley",
+      "description": "Death Valley Distortion",
+      "tags": [
+        "distortion",
+        "effect",
+        "waveshaper"
+      ]
+    },
+    {
+      "slug": "Olympic",
+      "name": "Olympic",
+      "description": "Olympic Saturation",
+      "tags": [
+        "distortion",
+        "effect",
+        "waveshaper"
+      ]
+    }
+  ]
+}
